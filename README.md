@@ -6,4 +6,4 @@ As my competitive programming journey evolves, I remain fully committed to const
 
 Aim? **Becoming a top-ranked competitive programmer**—nothing less. I focus on relentless practice, solving diverse problems in **C++**  while continually optimizing my algorithms for speed and efficiency. ⚙️ Whether it’s mastering advanced **data structures**, diving into **dynamic programming**, or exploring **graph theory**, I’m driven by the ambition to achieve excellence.
 
-🌟 **Mindset**: **Practice, Compete, Improve, Repeat.** 🚀
+🌟 **Mindset**: **Practice, Compete, Improve, Surpass, Repeat.** 🚀
