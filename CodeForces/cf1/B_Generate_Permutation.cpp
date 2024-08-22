@@ -29,3 +29,5 @@ int main() {
     }
     return 0;
 }
+// for odd we cant generate permuatation like
+// that so its impossible thsu return -1

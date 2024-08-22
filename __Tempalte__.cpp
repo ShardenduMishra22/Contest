@@ -58,20 +58,6 @@ int size_ll = 0;
 int top = -1;
 
 int main(){
-    int t;cin>>t;
-    while(t--){
-        int n;cin>>n;
-        unordered_map<int,int> m;
-        int mx = -1;
-        vint arr(n,0);
-        frw(i,0,n){
-            cin>>arr[i];
-            m[arr[i]] += 1;
-            if(m[arr[i]] > mx){
-                mx = m[arr[i]];
-            }
-        }
-        cout<<n - mx;nl;
-    }
+    
     return 0;
 }
