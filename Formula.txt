@@ -1,0 +1,26 @@
+1.)
+No of pair that you can choose 
+from an array of length 'n' :
+
+nc2 = (n * (n - 1)) / 2 
+
+
+2.)
+It is used to calculate the number of 1s (set bits) 
+in the binary representation of an integer i : 
+
+ans[i] = ans[i/2] + (i%2)
+
+
+3.)
+If a = b ^ c : 
+then b = a ^ c
+then c = a ^ b
+
+
+4.)
+In vector we can insert a number at any given position : 
+vec.insert(res.begin() + IdxPosn , NumToInsert)
+
+
+5.)
