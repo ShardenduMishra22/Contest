@@ -24,3 +24,10 @@ vec.insert(res.begin() + IdxPosn , NumToInsert)
 
 
 5.)
+No of times an element occurs in an array of odd length :
+(((i + 1)*(n - i)+1)/2)
+
+// i+1 is the no of array it will be in from left
+// n-i is the no of array it will be in from right
+// +1 is for adjustment so cause even always less than or equal to odd
+// *arr[i] is to add to the sum where the no of times it is added 
