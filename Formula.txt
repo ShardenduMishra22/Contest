@@ -31,3 +31,6 @@ No of times an element occurs in an array of odd length :
 // n-i is the no of array it will be in from right
 // +1 is for adjustment so cause even always less than or equal to odd
 // *arr[i] is to add to the sum where the no of times it is added 
+
+
+6.)
